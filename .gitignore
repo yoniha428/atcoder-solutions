@@ -8,3 +8,6 @@ contest.acc.json
 
 # ACL
 lib/atcoder/
+
+# AHCの配布ファイル
+tools/
