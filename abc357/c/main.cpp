@@ -20,5 +20,18 @@ template <typename T> bool chmin(T &a,const T &b){if(a>b){a=b;return true;}retur
 // using mint = modint;
 
 signed main(){
-  
+  int n; cin >> n;
+  auto sier = [](auto sier, int k) -> vector<string>{
+    if(k == 0) return {"#"};
+    int size = 1; rep(i, k) size *= 3;
+    auto small = sier(sier, k - 1);
+    vector ret(size, string(size, '.'));
+    rep(i, size) rep(j, size){
+      if(i >= size / 3 && i < size * 2 / 3 && j >= size / 3 && j < size * 2 / 3) continue;
+      ret.at(i).at(j) = small.at(i % (size / 3)).at(j % (size / 3));
+    }
+    return ret;
+  };
+  auto ans = sier(sier, n);
+  for(auto si : ans) cout << si << '\n';
 }

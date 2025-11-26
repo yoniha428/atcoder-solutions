@@ -20,5 +20,13 @@ template <typename T> bool chmin(T &a,const T &b){if(a>b){a=b;return true;}retur
 // using mint = modint;
 
 signed main(){
-  
+  int n, m; cin >> n >> m;
+  int ans = 0;
+  while(n--){
+    int h; cin >> h;
+    if(m < h) break;
+    ans++;
+    m -= h;
+  }
+  cout << ans << '\n';
 }

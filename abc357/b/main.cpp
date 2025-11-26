@@ -20,5 +20,13 @@ template <typename T> bool chmin(T &a,const T &b){if(a>b){a=b;return true;}retur
 // using mint = modint;
 
 signed main(){
-  
+  string s; cin >> s;
+  int lo = 0, up = 0;
+  for(auto c : s){
+    lo += (bool)islower(c);
+    up += (bool)isupper(c);
+  }
+  if(lo > up) for(auto&& c : s) c = tolower(c);
+  else for(auto&& c : s) c = toupper(c);
+  cout << s << '\n';
 }
