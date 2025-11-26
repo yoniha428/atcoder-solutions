@@ -1,0 +1,64 @@
+{
+  "contest": {
+    "id": "adt_hard_20251001_3",
+    "title": "AtCoder Daily Training HARD 2025/10/01 20:00start",
+    "url": "https://atcoder.jp/contests/adt_hard_20251001_3"
+  },
+  "tasks": [
+    {
+      "id": "abc272_c",
+      "label": "E",
+      "title": "Max Even",
+      "url": "https://atcoder.jp/contests/adt_hard_20251001_3/tasks/abc272_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc389_c",
+      "label": "F",
+      "title": "Snake Queue",
+      "url": "https://atcoder.jp/contests/adt_hard_20251001_3/tasks/abc389_c",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc279_d",
+      "label": "G",
+      "title": "Freefall",
+      "url": "https://atcoder.jp/contests/adt_hard_20251001_3/tasks/abc279_d",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc224_e",
+      "label": "H",
+      "title": "Integers on Grid",
+      "url": "https://atcoder.jp/contests/adt_hard_20251001_3/tasks/abc224_e",
+      "directory": {
+        "path": "h",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc351_f",
+      "label": "I",
+      "title": "Double Sum",
+      "url": "https://atcoder.jp/contests/adt_hard_20251001_3/tasks/abc351_f",
+      "directory": {
+        "path": "i",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    }
+  ]
+}

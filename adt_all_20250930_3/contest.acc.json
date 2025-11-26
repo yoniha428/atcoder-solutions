@@ -1,0 +1,108 @@
+{
+  "contest": {
+    "id": "adt_all_20250930_3",
+    "title": "AtCoder Daily Training ALL 2025/09/30 19:30start",
+    "url": "https://atcoder.jp/contests/adt_all_20250930_3"
+  },
+  "tasks": [
+    {
+      "id": "abc396_a",
+      "label": "A",
+      "title": "Triple Four",
+      "url": "https://atcoder.jp/contests/adt_all_20250930_3/tasks/abc396_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc379_a",
+      "label": "B",
+      "title": "Cyclic",
+      "url": "https://atcoder.jp/contests/adt_all_20250930_3/tasks/abc379_a",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc317_b",
+      "label": "C",
+      "title": "MissingNo.",
+      "url": "https://atcoder.jp/contests/adt_all_20250930_3/tasks/abc317_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc283_b",
+      "label": "D",
+      "title": "First Query Problem",
+      "url": "https://atcoder.jp/contests/adt_all_20250930_3/tasks/abc283_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc308_c",
+      "label": "E",
+      "title": "Standings",
+      "url": "https://atcoder.jp/contests/adt_all_20250930_3/tasks/abc308_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc402_c",
+      "label": "F",
+      "title": "Dislike Foods",
+      "url": "https://atcoder.jp/contests/adt_all_20250930_3/tasks/abc402_c",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc216_d",
+      "label": "G",
+      "title": "Pair of Balls",
+      "url": "https://atcoder.jp/contests/adt_all_20250930_3/tasks/abc216_d",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc248_e",
+      "label": "H",
+      "title": "K-colinear Line",
+      "url": "https://atcoder.jp/contests/adt_all_20250930_3/tasks/abc248_e",
+      "directory": {
+        "path": "h",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc386_f",
+      "label": "I",
+      "title": "Operate K",
+      "url": "https://atcoder.jp/contests/adt_all_20250930_3/tasks/abc386_f",
+      "directory": {
+        "path": "i",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "contest": {
+    "id": "adt_all_20251119_3",
+    "title": "AtCoder Daily Training ALL 2025/11/19 20:00start",
+    "url": "https://atcoder.jp/contests/adt_all_20251119_3"
+  },
+  "tasks": [
+    {
+      "id": "abc372_a",
+      "label": "A",
+      "title": "delete .",
+      "url": "https://atcoder.jp/contests/adt_all_20251119_3/tasks/abc372_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc282_a",
+      "label": "B",
+      "title": "Generalized ABC",
+      "url": "https://atcoder.jp/contests/adt_all_20251119_3/tasks/abc282_a",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc411_b",
+      "label": "C",
+      "title": "Distance Table",
+      "url": "https://atcoder.jp/contests/adt_all_20251119_3/tasks/abc411_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc223_b",
+      "label": "D",
+      "title": "String Shifting",
+      "url": "https://atcoder.jp/contests/adt_all_20251119_3/tasks/abc223_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc284_c",
+      "label": "E",
+      "title": "Count Connected Components",
+      "url": "https://atcoder.jp/contests/adt_all_20251119_3/tasks/abc284_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc321_c",
+      "label": "F",
+      "title": "321-like Searcher",
+      "url": "https://atcoder.jp/contests/adt_all_20251119_3/tasks/abc321_c",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc253_d",
+      "label": "G",
+      "title": "FizzBuzz Sum Hard",
+      "url": "https://atcoder.jp/contests/adt_all_20251119_3/tasks/abc253_d",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc371_e",
+      "label": "H",
+      "title": "I Hate Sigma Problems",
+      "url": "https://atcoder.jp/contests/adt_all_20251119_3/tasks/abc371_e",
+      "directory": {
+        "path": "h",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc276_f",
+      "label": "I",
+      "title": "Double Chance",
+      "url": "https://atcoder.jp/contests/adt_all_20251119_3/tasks/abc276_f",
+      "directory": {
+        "path": "i",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "contest": {
+    "id": "adt_all_20251009_2",
+    "title": "AtCoder Daily Training ALL 2025/10/09 18:30start",
+    "url": "https://atcoder.jp/contests/adt_all_20251009_2"
+  },
+  "tasks": [
+    {
+      "id": "abc246_a",
+      "label": "A",
+      "title": "Four Points",
+      "url": "https://atcoder.jp/contests/adt_all_20251009_2/tasks/abc246_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc241_a",
+      "label": "B",
+      "title": "Digit Machine",
+      "url": "https://atcoder.jp/contests/adt_all_20251009_2/tasks/abc241_a",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc364_b",
+      "label": "C",
+      "title": "Grid Walk",
+      "url": "https://atcoder.jp/contests/adt_all_20251009_2/tasks/abc364_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc337_b",
+      "label": "D",
+      "title": "Extended ABC",
+      "url": "https://atcoder.jp/contests/adt_all_20251009_2/tasks/abc337_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc312_c",
+      "label": "E",
+      "title": "Invisible Hand",
+      "url": "https://atcoder.jp/contests/adt_all_20251009_2/tasks/abc312_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc367_c",
+      "label": "F",
+      "title": "Enumerate Sequences",
+      "url": "https://atcoder.jp/contests/adt_all_20251009_2/tasks/abc367_c",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc214_d",
+      "label": "G",
+      "title": "Sum of Maximum Weights",
+      "url": "https://atcoder.jp/contests/adt_all_20251009_2/tasks/abc214_d",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc366_e",
+      "label": "H",
+      "title": "Manhattan Multifocal Ellipse",
+      "url": "https://atcoder.jp/contests/adt_all_20251009_2/tasks/abc366_e",
+      "directory": {
+        "path": "h",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc336_f",
+      "label": "I",
+      "title": "Rotation Puzzle",
+      "url": "https://atcoder.jp/contests/adt_all_20251009_2/tasks/abc336_f",
+      "directory": {
+        "path": "i",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    }
+  ]
+}

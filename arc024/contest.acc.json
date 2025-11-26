@@ -1,0 +1,53 @@
+{
+  "contest": {
+    "id": "arc024",
+    "title": "AtCoder Regular Contest 024",
+    "url": "https://atcoder.jp/contests/arc024"
+  },
+  "tasks": [
+    {
+      "id": "arc024_1",
+      "label": "A",
+      "title": "くつがくっつく",
+      "url": "https://atcoder.jp/contests/arc024/tasks/arc024_1",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "arc024_2",
+      "label": "B",
+      "title": "赤と黒の木",
+      "url": "https://atcoder.jp/contests/arc024/tasks/arc024_2",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "arc024_3",
+      "label": "C",
+      "title": "だれじゃ",
+      "url": "https://atcoder.jp/contests/arc024/tasks/arc024_3",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "arc024_4",
+      "label": "D",
+      "title": "バス停",
+      "url": "https://atcoder.jp/contests/arc024/tasks/arc024_4",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    }
+  ]
+}

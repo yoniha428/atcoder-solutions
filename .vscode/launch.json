@@ -1,0 +1,32 @@
+{
+  "configurations": [
+  {
+    "name": "AtCoder debug",
+    "type": "cppdbg",
+    "request": "launch",
+    "program": "${fileDirname}/a.out",
+    "args": [
+      "<",
+      "${fileDirname}/debug.in"
+    ],
+    "stopAtEntry": false,
+    "cwd": "${fileDirname}",
+    "environment": [],
+    "externalConsole": false,
+    "MIMode": "gdb",
+    "preLaunchTask" : "AtCoder debug build",
+    "setupCommands": [
+        {
+            "description": "gdb の再フォーマットを有効にする",
+            "text": "-enable-pretty-printing",
+            "ignoreFailures": true
+        },
+        {
+            "description": "逆アセンブリ フレーバーを Intel に設定",
+            "text": "-gdb-set disassembly-flavor intel",
+            "ignoreFailures": true
+        }
+    ]
+  }
+  ]
+}

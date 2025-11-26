@@ -1,0 +1,76 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "AtCoder debug build",
+      "type": "shell",
+      "options": {
+        "cwd": "${fileDirname}"
+      },
+      "command": "g++-14",
+      "args": [
+        "-std=gnu++2b",
+        "-O0",
+        "-Wall",
+        "-Wextra",
+        "-mtune=native",
+        "-march=native",
+        "-fconstexpr-depth=2147483647",
+        "-fconstexpr-loop-limit=2147483647",
+        "-fconstexpr-ops-limit=2147483647",
+        "-I",
+        "~/projects/compete/lib",
+        "-o",
+        "${fileDirname}/a.out",
+        "${file}",
+        "-g3"
+      ],
+      "group": {
+        "kind": "build",
+        "isDefault": false
+      },
+      "presentation":{
+        "reveal": "silent",
+        "focus": false,
+        "panel": "shared",
+        "showReuseMessage": false,
+        "clear": false
+      }
+    },
+    {
+      "label": "AtCoder release build",
+      "type": "shell",
+      "options": {
+        "cwd": "${fileDirname}"
+      },
+      "command": "g++-14",
+      "args": [
+        "-std=gnu++2b",
+        "-O2",
+        "-Wall",
+        "-Wextra",
+        "-mtune=native",
+        "-march=native",
+        "-fconstexpr-depth=2147483647",
+        "-fconstexpr-loop-limit=2147483647",
+        "-fconstexpr-ops-limit=2147483647",
+        "-I",
+        "~/projects/compete/lib",
+        "-o",
+        "${fileDirname}/a.out",
+        "${file}",
+      ],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "presentation":{
+        "reveal": "silent",
+        "focus": false,
+        "panel": "shared",
+        "showReuseMessage": false,
+        "clear": false
+      }
+    },
+  ]
+}

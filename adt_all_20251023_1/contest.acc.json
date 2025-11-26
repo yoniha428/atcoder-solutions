@@ -1,0 +1,108 @@
+{
+  "contest": {
+    "id": "adt_all_20251023_1",
+    "title": "AtCoder Daily Training ALL 2025/10/23 16:30start",
+    "url": "https://atcoder.jp/contests/adt_all_20251023_1"
+  },
+  "tasks": [
+    {
+      "id": "abc256_a",
+      "label": "A",
+      "title": "2^N",
+      "url": "https://atcoder.jp/contests/adt_all_20251023_1/tasks/abc256_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc419_a",
+      "label": "B",
+      "title": "AtCoder Language",
+      "url": "https://atcoder.jp/contests/adt_all_20251023_1/tasks/abc419_a",
+      "directory": {
+        "path": "b",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc227_b",
+      "label": "C",
+      "title": "KEYENCE building",
+      "url": "https://atcoder.jp/contests/adt_all_20251023_1/tasks/abc227_b",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc319_b",
+      "label": "D",
+      "title": "Measure",
+      "url": "https://atcoder.jp/contests/adt_all_20251023_1/tasks/abc319_b",
+      "directory": {
+        "path": "d",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc290_c",
+      "label": "E",
+      "title": "Max MEX",
+      "url": "https://atcoder.jp/contests/adt_all_20251023_1/tasks/abc290_c",
+      "directory": {
+        "path": "e",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc244_c",
+      "label": "F",
+      "title": "Yamanote Line Game",
+      "url": "https://atcoder.jp/contests/adt_all_20251023_1/tasks/abc244_c",
+      "directory": {
+        "path": "f",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc264_d",
+      "label": "G",
+      "title": "\"redocta\".swap(i,i+1)",
+      "url": "https://atcoder.jp/contests/adt_all_20251023_1/tasks/abc264_d",
+      "directory": {
+        "path": "g",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc257_e",
+      "label": "H",
+      "title": "Addition and Multiplication 2",
+      "url": "https://atcoder.jp/contests/adt_all_20251023_1/tasks/abc257_e",
+      "directory": {
+        "path": "h",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    },
+    {
+      "id": "abc251_f",
+      "label": "I",
+      "title": "Two Spanning Trees",
+      "url": "https://atcoder.jp/contests/adt_all_20251023_1/tasks/abc251_f",
+      "directory": {
+        "path": "i",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
+    }
+  ]
+}
