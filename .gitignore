@@ -1,2 +1,10 @@
-*/*/test/
+# acc関係
+test/
+contest.acc.json
+
+# コンパイラ生成物
 *.out
+*.gch
+
+# ACL
+lib/atcoder/
