@@ -1,0 +1,36 @@
+#if __has_include(<yoniha/all.h>)
+#include <yoniha/all.h>
+using namespace atcoder;
+#else
+#include <bits/stdc++.h>
+#if __has_include(<atcoder/all>)
+#include <atcoder/all>
+using namespace atcoder;
+#endif
+#endif
+using namespace std;
+
+#define int long long
+#define all(x) (x).begin(), (x).end()
+#define rep(i, n) for (int i = 0; i < (int)(n); i++)
+#define rrep(i, n) for(int i = (int)((n) - 1); i >= 0; i--)
+template <typename T> bool chmax(T &a,const T &b){if(a<b){a=b;return true;}return false;}
+template <typename T> bool chmin(T &a,const T &b){if(a>b){a=b;return true;}return false;}
+
+// using mint = modint;
+
+signed main(){
+  priority_queue<int, vector<int>, greater<>> que;
+  int q; cin >> q;
+  while(q--){
+    int op; cin >> op;
+    if(op == 1){
+      int x; cin >> x;
+      que.emplace(x);
+    }
+    if(op == 2){
+      println("{}", que.top());
+      que.pop();
+    }
+  }
+}

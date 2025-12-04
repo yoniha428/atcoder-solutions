@@ -1,7 +1,7 @@
 {
   "command-runner.commands": {
     "acc submit": "cd ${fileDirname} && acc submit ${file} && cd ../../",
-    "oj test": "g++-14 -std=gnu++2b -O2 -Wall -Wextra -mtune=native -march=native -fconstexpr-depth=2147483647 -fconstexpr-loop-limit=2147483647 -fconstexpr-ops-limit=2147483647 -I ~/projects/compete/lib -o ${fileDirname}/a.out ${file} && oj test -c ${fileDirname}/a.out -d ${fileDirname}/test -N -e 1e-6"
+    "oj test": "g++-14 -std=gnu++2b -O2 -Wall -Wextra -mtune=native -march=native -fconstexpr-depth=2147483647 -fconstexpr-loop-limit=2147483647 -fconstexpr-ops-limit=2147483647 -I ~/projects/compete/lib -o ${fileDirname}/a.out ${file} && oj test -c ${fileDirname}/a.out -d ${fileDirname}/test -N"
   },
   "files.associations": {
     "cmath": "cpp",
@@ -17,7 +17,16 @@
     "tuple": "cpp",
     "utility": "cpp",
     "variant": "cpp",
-    "format": "cpp"
+    "format": "cpp",
+    "deque": "cpp",
+    "vector": "cpp",
+    "barrier": "cpp",
+    "chrono": "cpp",
+    "random": "cpp",
+    "latch": "cpp",
+    "limits": "cpp",
+    "semaphore": "cpp",
+    "valarray": "cpp"
   },
   "[cpp]": {
     
